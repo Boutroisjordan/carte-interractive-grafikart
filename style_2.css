@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+svg {
+    width: 80%;
+}
+
+g path {
+    fill: transparent;
+}
+
+g path:hover {
+    fill: chocolate;
+}
+
+
+
+#cercle_de_montagnes {
+    visibility: hidden;
+}
+
+/* polyline {
+    fill: transparent;
+} */
